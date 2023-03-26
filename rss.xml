@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title></title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Sat, 25 Mar 2023 22:21:23 +0800</pubDate>
+        <lastBuildDate>Sat, 25 Mar 2023 22:21:23 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/03/25/%E7%BD%91%E7%AB%99%E9%A1%BB%E7%9F%A5/</guid>
+            <title>网站须知</title>
+            <link>http://example.com/2023/03/25/%E7%BD%91%E7%AB%99%E9%A1%BB%E7%9F%A5/</link>
+            <pubDate>Sat, 25 Mar 2023 22:21:23 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;此网站作为-22-班的官网&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#此网站作为-22-班的官网&#34;&gt;#&lt;/a&gt; 此网站作为 22 班的官网&lt;/h2&gt;
+&lt;p&gt;大家可以将想要发的文章发到邮箱：&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;bWFpbHRvOndhbmd6aXJ1aTAxMzBAb3V0bG9vay5jb20=&#34;&gt;wangzirui0130@outlook.com&lt;/span&gt;（可选择匿名或实名，请在邮件中告知）&lt;/p&gt;
+&lt;h2 id=&#34;欢迎大家投稿&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#欢迎大家投稿&#34;&gt;#&lt;/a&gt; 欢迎大家投稿！&lt;/h2&gt;
+&lt;p&gt;感谢我的初中同学建立此站！&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/03/24/22%E7%8F%AD%E7%BD%91%E7%AB%99%E5%BB%BA%E7%AB%8B%E5%BA%86%E7%A5%9D/</guid>
+            <title>22班网站建立庆祝~</title>
+            <link>http://example.com/2023/03/24/22%E7%8F%AD%E7%BD%91%E7%AB%99%E5%BB%BA%E7%AB%8B%E5%BA%86%E7%A5%9D/</link>
+            <pubDate>Fri, 24 Mar 2023 22:23:27 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;庆祝-22-班网站的建立同时也感谢我的初中同学的帮助&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#庆祝-22-班网站的建立同时也感谢我的初中同学的帮助&#34;&gt;#&lt;/a&gt; 庆祝 22 班网站的建立，同时也感谢我的初中同学的帮助！&lt;/h2&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
